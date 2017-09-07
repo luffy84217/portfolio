@@ -1,0 +1,12 @@
+#to-the-top {
+    display: none;
+}
+
+#to-the-top.active {
+    display: inline-block;
+    opacity: .7;
+}
+
+#to-the-top.active:hover {
+    opacity: 1;
+}

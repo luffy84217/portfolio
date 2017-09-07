@@ -1,0 +1,79 @@
+{
+	"personalPhotoUrl": "img/about/personal-photo.jpg",
+	"name": "Fu Chuan Yu",
+	"infos":
+	[
+		{
+			"key": "profession",
+			"icon": "briefcase",
+			"value": "Front-End Engineering"
+		},
+		{
+			"key": "location",
+			"icon": "home",
+			"value": "Taipei, Taiwan"
+		},
+		{
+			"key": "email",
+			"icon": "envelope",
+			"value": "luffy84217@gmail.com"
+		},
+		{
+			"key": "phoneNumber",
+			"icon": "phone",
+			"value": "+886988639255"
+		}
+	],
+	"languages": 
+	[
+		{
+			"name": "中文(Chinese)",
+			"progress": 100
+		},
+		{
+			"name": "English",
+			"progress": 80
+		},
+		{
+			"name": "日本語(Japanese)",
+			"progress": 70
+		}
+
+	],
+	"skills": 
+	[
+		{
+			"name": "HTML5",
+			"imageUrl": "img/about/skill-html5.png"
+		},
+		{
+			"name": "CSS3",
+			"imageUrl": "img/about/skill-css3.png"
+		},
+		{
+			"name": "JavaScript",
+			"imageUrl": "img/about/skill-js.png"
+		},
+		{
+			"name": "ES6",
+			"imageUrl": "img/about/skill-es6.png"
+		},
+		{
+			"name": "Bootstrap",
+			"imageUrl": "img/about/skill-bootstrap.png"
+		},
+		{
+			"name": "Angular",
+			"imageUrl": "img/about/skill-angular.png"
+		},
+		{
+			"name": "React",
+			"imageUrl": "img/about/skill-react.png"
+		},
+		{
+			"name": "Express",
+			"imageUrl": "img/about/skill-express.png"
+		}
+	]
+	
+}

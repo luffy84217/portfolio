@@ -1,0 +1,35 @@
+{
+    "socialMedias":
+    [
+        {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/luffy84217"
+        },
+        {
+            "name": "Facebook",
+            "icon": "facebook",
+            "url": "https://www.facebook.com/luffy84217"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com/in/%E5%AF%8C%E8%8D%83-%E6%B8%B8-a2026a14a/"
+        }
+    ],
+    "poweredBys":
+    [
+        {
+            "name": "Angular",
+            "url": "https://angularjs.org/"
+        },
+        {
+            "name": "jQuery",
+            "url": "https://jquery.com/"
+        },
+        {
+            "name": "Materialize.css",
+            "url": "http://materializecss.com/"
+        }
+    ]
+}

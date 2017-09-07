@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500");
+
+footer {
+	font-family: "Roboto", sans-serif;
+	padding: 32px;
+	background-color: #424242;
+	box-shadow: 0px 0px 100px 30px #373737 inset;
+}
+
+footer .title {
+	margin-bottom: 16px;
+	font-size: 14px;
+	color: #e0e0e0;
+}
+
+footer .text {
+	color: #9e9e9e;
+}
+
+footer .social-icon-item {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+}
+
+footer .social-icon-item:hover {
+	opacity: .7;
+}
+
+footer .powered-by {
+	text-align: center;
+}

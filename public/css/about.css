@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500");
+
+.info-icon-item {
+    margin-right: 24px;
+}
+
+.tabs .tab a {
+    color: #81c784;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: #4caf50;
+}
+
+.tabs .indicator {
+    background-color: #81c784;
+}
