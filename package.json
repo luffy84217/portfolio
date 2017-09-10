@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is a portfolio.",
   "main": "www",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luffy84217/portfolio"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
