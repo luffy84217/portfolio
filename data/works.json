@@ -1,7 +1,7 @@
 [
     {
         "title": "Stay Alive",
-        "details": "<p>This  is a Rogue-like game. Try to survive as long as you can.</p>",
+        "details": "This  is a Rogue-like game. Try to survive as long as you can.",
         "link": "https://codepen.io/luffy84217/pen/LLqRBY",
         "id": "LLqRBY",
         "views": "134",
@@ -20,7 +20,7 @@
     },
     {
         "title": "Map Data Across the Globe",
-        "details": "<p>This is an exercise from FreeCodeCamp.</p>",
+        "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/yXQmaq",
         "id": "yXQmaq",
         "views": "25",
@@ -39,7 +39,7 @@
     },
     {
         "title": "Build the Game of Life",
-        "details": "<p>This is an exercise from FreeCodeCamp.</p>",
+        "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/dRgMPd",
         "id": "dRgMPd",
         "views": "38",
@@ -58,7 +58,7 @@
     },
     {
         "title": "Show National Contiguity with a Force Directed Graph",
-        "details": "<p>This is an excerise from FreeCodeCamp.</p>",
+        "details": "This is an excerise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/GEXbpp",
         "id": "GEXbpp",
         "views": "19",
@@ -77,7 +77,7 @@
     },
     {
         "title": "Visualize Data with a Heat Map",
-        "details": "<p>This is an exercise from FreeCodeCamp.</p>",
+        "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/ZyMWgo",
         "id": "ZyMWgo",
         "views": "20",
@@ -96,7 +96,7 @@
     },
     {
         "title": "Build a Recipe Box",
-        "details": "<p>This is an exercise from FreeCodeCamp</p>",
+        "details": "This is an exercise from FreeCodeCamp",
         "link": "https://codepen.io/luffy84217/pen/BZxbGv",
         "id": "BZxbGv",
         "views": "18",
@@ -115,7 +115,7 @@
     },
     {
         "title": "Visualize Data with a Scatterplot Graph",
-        "details": "<p>This is an exercise from FreeCodeCamp.</p>",
+        "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/xrjbzy",
         "id": "xrjbzy",
         "views": "21",
@@ -134,7 +134,7 @@
     },
     {
         "title": "Build a Camper Leaderboard",
-        "details": "<p>This is an exercise from FreeCampCode</p>",
+        "details": "This is an exercise from FreeCampCode",
         "link": "https://codepen.io/luffy84217/pen/bRYPop",
         "id": "bRYPop",
         "views": "18",
@@ -153,7 +153,7 @@
     },
     {
         "title": "Build a Markdown Previewer",
-        "details": "<p>This is an exercise from FreeCodeCamp.</p>",
+        "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/yXzYvj",
         "id": "yXzYvj",
         "views": "7",
@@ -172,7 +172,7 @@
     },
     {
         "title": "Build a Simon Game",
-        "details": "<p>This is a exercise from FreeCodeCamp.</p>",
+        "details": "This is a exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/yXOJdR",
         "id": "yXOJdR",
         "views": "24",
@@ -191,7 +191,7 @@
     },
     {
         "title": "Visualize Data with a Bar Chart",
-        "details": "<p>This is a exercise from FreeCodeCamp.</p>",
+        "details": "This is a exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/owYzzR",
         "id": "owYzzR",
         "views": "27",
@@ -210,7 +210,7 @@
     },
     {
         "title": "Javascript Calculator",
-        "details": "<p>It&apos;s an excercise from freeCodeCamp, it&apos;s design by Justin Woodward originally, and revised by myself to extend the function and adapt the code by my own. The Algorithm used is Reverse Polish notation.</p>",
+        "details": "It&apos;s an excercise from freeCodeCamp, it&apos;s design by Justin Woodward originally, and revised by myself to extend the function and adapt the code by my own. The Algorithm used is Reverse Polish notation.",
         "link": "https://codepen.io/luffy84217/pen/qjEbMQ",
         "id": "qjEbMQ",
         "views": "21",
@@ -286,7 +286,7 @@
     },
     {
         "title": "Build a Pomodoro Clock",
-        "details": "<p>It&apos;s an exercise from FreeCodeCamp. The progress circle cycles roundly, and the position depends on time it&apos;s passed. The ring&apos;s color changes between green and red gradually to imply.</p>",
+        "details": "It&apos;s an exercise from FreeCodeCamp. The progress circle cycles roundly, and the position depends on time it&apos;s passed. The ring&apos;s color changes between green and red gradually to imply.",
         "link": "https://codepen.io/luffy84217/pen/XgJOGw",
         "id": "XgJOGw",
         "views": "27",
@@ -361,7 +361,7 @@
     },
     {
         "title": "Build a Tribute Page",
-        "details": "<p>This is a tribute page of basic front-end development projects for practice required in freeCodeCamp&apos;s curriculum.</p>",
+        "details": "This is a tribute page of basic front-end development projects for practice required in freeCodeCamp&apos;s curriculum.",
         "link": "https://codepen.io/luffy84217/pen/OmOdYQ",
         "id": "OmOdYQ",
         "views": "3",
