@@ -1,381 +1,211 @@
 [
     {
+        "title": "Voting App",
+        "details": "This is a voting app with OAuth. For unauthorized users, they are able to view poll result and vote. For authorized users, they are able to make poll and remove poll.",
+        "link": "https://voting-app-luffy84217.c9users.io/",
+        "imageUrl": "img/works/voting_app.png",
+        "platform": "c9.io"
+    },
+    {
+        "title": "Get File Meta",
+        "details": "",
+        "link": "https://github.com/luffy84217/get-file-meta",
+        "imageUrl": "img/works/api.png",
+        "platform": "GitHub"
+    },
+    {
+        "title": "TinyUrl",
+        "details": "",
+        "link": "https://github.com/luffy84217/tinyurl",
+        "imageUrl": "img/works/api.png",
+        "platform": "GitHub"
+    },
+    {
+        "title": "Image Search",
+        "details": "",
+        "link": "https://github.com/luffy84217/imagesearch",
+        "imageUrl": "img/works/api.png",
+        "platform": "GitHub"
+    },
+    {
+        "title": "Who am I",
+        "details": "",
+        "link": "https://github.com/luffy84217/whoami",
+        "imageUrl": "img/works/api.png",
+        "platform": "GitHub"
+    },
+    {
+        "title": "Timestamp",
+        "details": "",
+        "link": "https://github.com/luffy84217/timestamp",
+        "imageUrl": "img/works/api.png",
+        "platform": "GitHub"
+    },
+    {
+        "title": "",
+        "details": "",
+        "link": "",
+        "imageUrl": "img/works/api.png",
+        "platform": "GitHub"
+    },
+    {
         "title": "Stay Alive",
-        "details": "This  is a Rogue-like game. Try to survive as long as you can.",
+        "details": "This is a Rogue-like game. Try to survive as long as you can.",
         "link": "https://codepen.io/luffy84217/pen/LLqRBY",
         "id": "LLqRBY",
-        "views": "134",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/LLqRBY/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/LLqRBY/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Stay_Alive.png",
+        "platform": "Codepen"
     },
     {
         "title": "Map Data Across the Globe",
         "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/yXQmaq",
         "id": "yXQmaq",
-        "views": "25",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/yXQmaq/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/yXQmaq/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Map_Data_Across_the_Globe.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build the Game of Life",
         "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/dRgMPd",
         "id": "dRgMPd",
-        "views": "38",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/dRgMPd/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/dRgMPd/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_the_Game_of_Life.png",
+        "platform": "Codepen"
     },
     {
         "title": "Show National Contiguity with a Force Directed Graph",
         "details": "This is an excerise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/GEXbpp",
         "id": "GEXbpp",
-        "views": "19",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/GEXbpp/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/GEXbpp/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Show_National_Contiguity_with_a_Force_Directed_Graph.png",
+        "platform": "Codepen"
     },
     {
         "title": "Visualize Data with a Heat Map",
         "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/ZyMWgo",
         "id": "ZyMWgo",
-        "views": "20",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/ZyMWgo/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/ZyMWgo/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Visualize_Data_with_a_Heat_Map.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Recipe Box",
         "details": "This is an exercise from FreeCodeCamp",
         "link": "https://codepen.io/luffy84217/pen/BZxbGv",
         "id": "BZxbGv",
-        "views": "18",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/BZxbGv/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/BZxbGv/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Recipe_Box.png",
+        "platform": "Codepen"
     },
     {
         "title": "Visualize Data with a Scatterplot Graph",
         "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/xrjbzy",
         "id": "xrjbzy",
-        "views": "21",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/xrjbzy/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/xrjbzy/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Visualize_Data_with_a_Scatterplot_Graph.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Camper Leaderboard",
         "details": "This is an exercise from FreeCampCode",
         "link": "https://codepen.io/luffy84217/pen/bRYPop",
         "id": "bRYPop",
-        "views": "18",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/bRYPop/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/bRYPop/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Camper_Leaderboard.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Markdown Previewer",
         "details": "This is an exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/yXzYvj",
         "id": "yXzYvj",
-        "views": "7",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/yXzYvj/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/yXzYvj/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Markdown_Previewer.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Simon Game",
         "details": "This is a exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/yXOJdR",
         "id": "yXOJdR",
-        "views": "24",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/yXOJdR/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/yXOJdR/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Simon_Game.png",
+        "platform": "Codepen"
     },
     {
         "title": "Visualize Data with a Bar Chart",
         "details": "This is a exercise from FreeCodeCamp.",
         "link": "https://codepen.io/luffy84217/pen/owYzzR",
         "id": "owYzzR",
-        "views": "27",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/owYzzR/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/owYzzR/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Visualize_Data_with_a_Bar_Chart.png",
+        "platform": "Codepen"
     },
     {
         "title": "Javascript Calculator",
         "details": "It&apos;s an excercise from freeCodeCamp, it&apos;s design by Justin Woodward originally, and revised by myself to extend the function and adapt the code by my own. The Algorithm used is Reverse Polish notation.",
         "link": "https://codepen.io/luffy84217/pen/qjEbMQ",
         "id": "qjEbMQ",
-        "views": "21",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/qjEbMQ/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/qjEbMQ/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Javascript_Calculator.png",
+        "platform": "Codepen"
     },
     {
         "title": "Show the Local Weather",
         "details": "",
         "link": "https://codepen.io/luffy84217/pen/qmGMqO",
         "id": "qmGMqO",
-        "views": "16",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/qmGMqO/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/qmGMqO/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Show_the_Local_Weather.png",
+        "platform": "Codepen"
     },
     {
         "title": "Random Quote Machine",
         "details": "",
         "link": "https://codepen.io/luffy84217/pen/aWrpmR",
         "id": "aWrpmR",
-        "views": "26",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/aWrpmR/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/aWrpmR/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Random_Quote_Machine.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Tic Tac Toe Game",
         "details": "",
         "link": "https://codepen.io/luffy84217/pen/mwVwYw",
         "id": "mwVwYw",
-        "views": "5",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/mwVwYw/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/mwVwYw/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Tic_Tac_Toe_Game.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Pomodoro Clock",
         "details": "It&apos;s an exercise from FreeCodeCamp. The progress circle cycles roundly, and the position depends on time it&apos;s passed. The ring&apos;s color changes between green and red gradually to imply.",
         "link": "https://codepen.io/luffy84217/pen/XgJOGw",
         "id": "XgJOGw",
-        "views": "27",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/XgJOGw/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/XgJOGw/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Pomodoro_Clock.png",
+        "platform": "Codepen"
     },
     {
         "title": "Use the Twitchtv JSON API",
         "details": "",
         "link": "https://codepen.io/luffy84217/pen/QgLNeX",
         "id": "QgLNeX",
-        "views": "19",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/QgLNeX/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/QgLNeX/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Use_the_Twitchtv_JSON_API.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Wikipedia Viewer",
         "details": "",
         "link": "https://codepen.io/luffy84217/pen/NjQRRv",
         "id": "NjQRRv",
-        "views": "10",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/NjQRRv/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/NjQRRv/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Wikipedia_Viewer.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Personal Portfolio Webpage",
         "details": "",
         "link": "https://codepen.io/luffy84217/pen/PmBpxE",
         "id": "PmBpxE",
-        "views": "29",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/PmBpxE/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/PmBpxE/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        }
+        "imageUrl": "img/works/Build_a_Personal_Portfolio_Webpage.png",
+        "platform": "Codepen"
     },
     {
         "title": "Build a Tribute Page",
         "details": "This is a tribute page of basic front-end development projects for practice required in freeCodeCamp&apos;s curriculum.",
         "link": "https://codepen.io/luffy84217/pen/OmOdYQ",
         "id": "OmOdYQ",
-        "views": "3",
-        "loves": "",
-        "comments": "0",
-        "images":
-        {
-            "small": "http://codepen.io/luffy84217/pen/OmOdYQ/image/small.png",
-            "large": "http://codepen.io/luffy84217/pen/OmOdYQ/image/large.png"
-        },
-        "user":
-        {
-            "username": "luffy84217"
-        },
-        "platform": "codepen"
+        "imageUrl": "img/works/Build_a_Tribute_Page.png",
+        "platform": "Codepen"
     }
 ]
