@@ -9,17 +9,17 @@ angular
                 $routeProvider
                     .when('/about', {
                         title: 'About',
-                        templateUrl: 'js/about/about.template.html',
+                        templateUrl: 'html/about.template.html',
                         controller: 'AboutController'
                     })
                     .when('/works', {
                         title: 'Works',
-                        templateUrl: 'js/works/works.template.html',
+                        templateUrl: 'html/works.template.html',
                         controller: 'WorksController'
                     })
                     .when('/contact', {
                         title: 'Contact',
-                        templateUrl: 'js/contact/contact.template.html',
+                        templateUrl: 'html/contact.template.html',
                         controller: 'ContactController'
                     })
                     .otherwise('/about');
