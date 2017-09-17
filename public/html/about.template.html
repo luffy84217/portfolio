@@ -1,0 +1,56 @@
+<div id="about" class="container">
+    <div class="row">
+        <h2 class="header">About Me</h2>
+        <hr>
+        <div class="col s12 m12 l5">
+            <div class="card">
+                <div class="card-image">
+                    <img ng-src="{{data.personalPhotoUrl}}">
+                    <span class="card-title"><b>{{data.name}}</b></span>
+                </div>
+                <div class="card-content flow-text">
+                    <ul>
+                        <li ng-repeat="info in data.infos">
+                            <i class="info-icon-item" ng-class="'fa fa-' + info.icon + ' fa-lg'"></i>{{info.value}}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col s12 m12 l7">
+            <div class="card">
+                <div class="card-tabs">
+                    <ul class="tabs tabs-fixed-width">
+                        <li class="tab"><a class="active" href="#languages"><i class="fa fa-globe fa-lg"></i> Languages</a></li>
+                        <li class="tab"><a href="#experience"><i class="fa fa-suitcase fa-lg"></i> Experience</a></li>
+                        <li class="tab"><a href="#skills"><i class="fa fa-asterisk fa-lg"></i> Skills</a></li>
+                    </ul>
+                </div>
+                <div class="card-content flow-text">
+                    <div id="languages">
+                        <ul>
+                            <li ng-repeat="lang in data.languages">
+                            	<span>{{lang.name}}</span>
+                            	<div class="progress">
+								    <div class="determinate" style="{{'width:' + lang.progress + '%'}}"></div>
+								</div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="experience">Experience</div>
+                    <div id="skills">
+                        <div class="row">
+                        	<ul>
+		                        <li class="skill-item" ng-repeat="skill in data.skills">
+		                            <div class="col s6 m6 l4">
+		                                <img ng-src="{{skill.imageUrl}}">
+		                            </div>
+		                        </li>
+		                    </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
