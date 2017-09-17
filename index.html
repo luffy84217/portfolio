@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="portfolio">
+<head>
+    <title ng-bind="title + ' | Portfolio'">Portfolio</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta charset="utf-8">
+    <!--Import angular framework dependencies-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"></script>
+    <script type="text/javascript" src="https://code.angularjs.org/1.6.5/angular-route.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-resource/1.6.6/angular-resource.min.js"></script>
+    <script type="text/javascript" src="https://code.angularjs.org/1.6.5/angular-animate.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-touch/1.6.6/angular-touch.min.js"></script>
+    <!--Import angular module-->
+    <script type="text/javascript" src="js/app.min.js"></script>
+    <!--Import Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <!-- Import Custom css -->
+    <link rel="stylesheet" type="text/css" href="css/style.min.css">
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+
+	<div class="banner">
+        <header>
+            <h1 class="title">Portfolio</h1>
+        </header>
+        <nav>
+            <a href="#!/about">ABOUT</a>
+            <a href="#!/works">WORKS</a>
+            <a href="#!/contact">CONTACT</a>
+        </nav>
+    </div>
+
+    <main id="top" class="section scrollspy">
+        <div ng-view></div>
+    </main>
+
+    <footer ng-controller="FooterController">
+        <div class="row">
+            <div class="col s12 m6">
+                <h2 class="title">Feature</h2>
+                <ul>
+                    <li><a class="text" href="#!/about">About</a></li>
+                    <li><a class="text" href="#!/works">Works</a></li>
+                    <li><a class="text" href="#!/contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="col s12 m6">
+                <h2 class="title">Find Me On Social Media</h2>
+                <ul class="social-icon-bar">
+                    <li class="social-icon-item" ng-repeat="socialMedia in data.socialMedias">
+                        <a ng-href="{{socialMedia.url}}" target="_blank"><i ng-class="'text fa fa-' + socialMedia.icon + '-square fa-2x'"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row powered-by">
+            <span class="text">
+                Powered by
+                <span ng-repeat="lib in data.poweredBys">
+                    <a ng-href="{{lib.url}}">{{lib.name}}</a>
+                </span>
+            </span>
+        </div>
+    </footer>
+
+    <div class="fixed-action-btn" ng-controller="ToTheTopController">
+        <a id="to-the-top" href="#top" class="btn-floating btn-large waves-effect waves-light green z-depth-2"><i class="material-icons">publish</i></a>
+    </div>
+
+    <!--Import jQuery before materialize.js and animateCss.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+</body>
+</html>
