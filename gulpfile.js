@@ -3,7 +3,19 @@ var sass = require('gulp-sass');
 var concat  = require('gulp-concat');
 var cleanCSS = require('gulp-clean-css');
 var uglify = require('gulp-uglify');
-var rename = require("gulp-rename");
+var rename = require('gulp-rename');
+var imagemin = require('gulp-imagemin');
+
+gulp.task('image-optimize', function() {
+    return gulp.src(['./assert/img/*', './assert/img/**/*'])
+        .pipe(imagemin([
+            imagemin.jpegtran({progressive: true}),
+            imagemin.optipng({optimizationLevel: 5})
+        ], {
+            verbose: true
+        }))
+        .pipe(gulp.dest('./build/img'));
+});
 
 gulp.task('sass-compile-merge-minify-css', function() {
     return gulp.src('./src/scss/*.scss')
@@ -28,4 +40,4 @@ gulp.task('merge-uglify-js', function() {
         .pipe(gulp.dest('./build/js/'));
 });
 
-gulp.task('default', ['sass-compile-merge-minify-css', 'merge-uglify-js']);
+gulp.task('default', ['image-optimize', 'sass-compile-merge-minify-css', 'merge-uglify-js']);
