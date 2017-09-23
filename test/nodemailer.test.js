@@ -10,9 +10,9 @@ var pass = process.env.ACCOUNT_PASSWORD;
 
 describe('Nodemailer', function() {
 
-    describe('1. Gmail Account Presence', function() {
+    describe('#Email Account Setting', function() {
 
-        it('should be a valid email format', function() {
+        it('email validation', function() {
             // HTML5 input type=email validation
             expect(user).to.match(/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/g);
         });
@@ -21,17 +21,13 @@ describe('Nodemailer', function() {
             expect(user.split('@')[1].split('.')[0]).to.be('gmail');
         });
 
-    });
-
-    describe('2. Password Presence', function() {
-
         it('password is required', function() {
             expect(pass).to.be.a('string');
         });
 
     });
 
-    describe('3. transporter sendMail', function() {
+    describe.skip('#transporter sendMail', function() {
 
         it('nodemailer transporter works and sends mail', function(done) {
             // Test-specific timeouts applied
