@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node ./bin/www",
-    "build": "gulp"
+    "build": "gulp",
+    "test": "mocha"
   },
   "keywords": [
     "express",
@@ -23,6 +24,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "dotenv": "^4.0.0",
+    "expect.js": "^0.3.1",
     "express": "~4.15.2",
     "morgan": "~1.8.1",
     "nodemailer": "^4.1.0",
@@ -39,6 +41,7 @@
     "gulp-imagemin": "^3.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
-    "gulp-uglify": "^3.0.0"
+    "gulp-uglify": "^3.0.0",
+    "mocha": "^3.5.3"
   }
 }
