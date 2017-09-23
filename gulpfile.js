@@ -7,7 +7,7 @@ var rename = require('gulp-rename');
 var imagemin = require('gulp-imagemin');
 
 gulp.task('image-optimize', function() {
-    return gulp.src(['./assert/img/*', './assert/img/**/*'])
+    return gulp.src(['./asset/img/*', './asset/img/**/*'])
         .pipe(imagemin([
             imagemin.jpegtran({progressive: true}),
             imagemin.optipng({optimizationLevel: 5})
