@@ -34,11 +34,11 @@ npm-debug.log
 
 # Elastic Beanstalk Files
 
-.elasticbeanstalk/*.cofig
+.elasticbeanstalk/
 
 !.elasticbeanstalk/*.cfg.yml
 
 !.elasticbeanstalk/*.global.yml
 
 # Elastic Beanstalk Extensions
-.ebextensions/*.config
+.ebextensions/
