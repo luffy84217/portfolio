@@ -1,5 +1,12 @@
 [
     {
+        "title": "Calculator-react-redux",
+        "details": "This is a calculator built with react, redux and react-redux.",
+        "link": "https://github.com/luffy84217/calculator-react-redux",
+        "imageUrl": "img/works/Calculator-react-redux.png",
+        "platform": "GitHub"
+    }
+    {
         "title": "Voting App",
         "details": "This is a voting app with OAuth. For unauthorized users, they are able to view poll result and vote. For authorized users, they are able to make poll and remove poll.",
         "link": "https://voting-app-luffy84217.c9users.io/",
