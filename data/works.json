@@ -9,9 +9,9 @@
     {
         "title": "Voting App",
         "details": "This is a voting app with OAuth. For unauthorized users, they are able to view poll result and vote. For authorized users, they are able to make poll and remove poll.",
-        "link": "https://voting-app-luffy84217.c9users.io/",
+        "link": "https://github.com/luffy84217/voting-app",
         "imageUrl": "img/works/voting_app.png",
-        "platform": "c9.io"
+        "platform": "GitHub"
     },
     {
         "title": "Get File Meta",
