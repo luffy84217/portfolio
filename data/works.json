@@ -1,5 +1,12 @@
 [
     {
+        "title": "Frontend-nanodegree-mobile-portfolio",
+        "details": "A challenge is to optimize Cameron's portfolio for speed. In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques picked up in the Critical Rendering Path course.",
+        "link": "https://github.com/luffy84217/frontend-nanodegree-mobile-portfolio",
+        "image": "img/frontend-nanodegree-mobile-portfolio.png",
+        "platform": "GitHub"
+    },
+    {
         "title": "Google-image-crawler",
         "details": "This is a Google Image Crawler based on Google custom search engine.",
         "link": "https://github.com/luffy84217/google-image-crawler",
