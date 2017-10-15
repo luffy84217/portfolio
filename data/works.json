@@ -1,5 +1,12 @@
 [
     {
+        "title": "Calculator-angular",
+        "details": "This is a calculator built with angular.",
+        "link": "https://github.com/luffy84217/calculator-angular",
+        "imageUrl": "img/works/Calculator-angular.png",
+        "platform": "GitHub"
+    },
+    {
         "title": "Frontend-nanodegree-mobile-portfolio",
         "details": "A challenge is to optimize Cameron's portfolio for speed. In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques picked up in the Critical Rendering Path course.",
         "link": "https://github.com/luffy84217/frontend-nanodegree-mobile-portfolio",
