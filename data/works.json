@@ -1,5 +1,19 @@
 [
     {
+        "title": "Photo-uploader",
+        "details": "This is a photo uploader built by native Javascript with d3.js.",
+        "link": "https://github.com/luffy84217/photo-uploader",
+        "imageUrl": "img/works/Photo-uploader.png",
+        "platform": "GitHub"
+    },
+    {
+        "title": "Todo-react-redux",
+        "details": "This is a todo built with react, redux and react-redux.",
+        "link": "https://github.com/luffy84217/todo-react-redux",
+        "imageUrl": "img/works/Todo-react-redux.png",
+        "platform": "GitHub"
+    },
+    {
         "title": "Calculator-angular",
         "details": "This is a calculator built with angular.",
         "link": "https://github.com/luffy84217/calculator-angular",
