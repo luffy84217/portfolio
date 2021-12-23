@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/luffy84217/portfolio/issues"
   },
-  "homepage": "https://github.com/luffy84217/portfolio#readme",
+  "homepage": "https://luffy84217-portfolio.herokuapp.com",
   "dependencies": {
     "body-parser": "~1.17.1",
     "compression": "^1.7.1",
