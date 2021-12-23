@@ -1,5 +1,12 @@
 [
     {
+        "title": "react-input-pin-code",
+        "details": "An accessible and simple pin input component built with styled-components for ReactJS.",
+        "link": "https://github.com/luffy84217/react-input-pin-code",
+        "image": "img/works/NPM_Package.png",
+        "platform": "GitHub"
+    },
+    {
         "title": "Photo-uploader",
         "details": "This is a photo uploader built by native Javascript with d3.js.",
         "link": "https://github.com/luffy84217/photo-uploader",
